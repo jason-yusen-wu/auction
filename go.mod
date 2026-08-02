@@ -1,3 +1,5 @@
-module github.com/jason-yusen-wu/auction.git
+module github.com/jason-yusen-wu/flashsale.git
 
 go 1.26.5
+
+require github.com/go-chi/chi/v5 v5.3.1 // direct
